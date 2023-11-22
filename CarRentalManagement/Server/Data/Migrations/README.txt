@@ -1,0 +1,1 @@
+Captures the last update to database and implements into the database 
